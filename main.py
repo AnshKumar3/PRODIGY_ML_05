@@ -13,6 +13,7 @@ class_labels = ['apple_pie', 'baby_back_ribs', 'baklava','beef_carpaccio','beef_
 calorie_dict = {
     'apple_pie': 237,  # calories per serving
     'baby_back_ribs': 350,
+
     'baklava': 540,
     'beef_carpaccio':460,
     'beef_tartare':560,
